@@ -13,6 +13,8 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+    container: 
+      image: circleci/node:12.16-browsers
 
     strategy:
       matrix:
