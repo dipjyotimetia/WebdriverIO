@@ -21,7 +21,7 @@
     "@wdio/selenium-standalone-service": "^6.0.16",
     "@wdio/spec-reporter": "^6.1.5",
     "@wdio/sync": "^6.1.5",
-    "@wdio/appium-service":"6.1.0",
+    "@wdio/appium-service": "6.1.0",
     "allure-commandline": "^2.13.0",
     "chai": "^4.2.0",
     "mocha": "^7.1.2",
