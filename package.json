@@ -1,7 +1,7 @@
 {
   "name": "webdriver-io",
   "version": "1.0.0",
-  "description": "Boilerplate project using version 5 WebdriverIO & TypeScript.",
+  "description": "Boilerplate project using version 6 WebdriverIO & TypeScript.",
   "repository": "",
   "scripts": {
     "test": "wdio",
