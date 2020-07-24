@@ -36,6 +36,6 @@
     "tslint": "^6.1.2",
     "typescript": "^3.9.6",
     "webdriverio": "^6.3.4",
-    "devtools": "6.1.25"
+    "devtools": "6.3.4"
   }
 }
