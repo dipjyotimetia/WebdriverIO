@@ -21,7 +21,7 @@
     "@wdio/mocha-framework": "^6.3.6",
     "@wdio/selenium-standalone-service": "^6.1.14",
     "@wdio/spec-reporter": "^6.3.6",
-    "@wdio/sync": "^6.3.3",
+    "@wdio/sync": "^6.3.6",
     "@wdio/appium-service": "6.1.16",
     "@wdio/devtools-service": "6.3.6",
     "@wdio/webdriver-mock-service": "6.3.6",
