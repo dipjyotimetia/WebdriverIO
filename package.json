@@ -17,7 +17,7 @@
     "@wdio/config": "6.1.14",
     "@wdio/allure-reporter": "^6.3.6",
     "@wdio/cli": "^6.3.6",
-    "@wdio/local-runner": "^6.3.6",
+    "@wdio/local-runner": "^6.4.0",
     "@wdio/mocha-framework": "^6.3.6",
     "@wdio/selenium-standalone-service": "^6.1.14",
     "@wdio/spec-reporter": "^6.3.6",
