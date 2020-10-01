@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.3",
-    "@types/node": "^14.6.2",
+    "@types/node": "^14.11.2",
     "@wdio/config": "6.4.5",
     "@wdio/allure-reporter": "^6.5.2",
     "@wdio/cli": "^6.4.5",
