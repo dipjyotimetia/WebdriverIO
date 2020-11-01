@@ -24,7 +24,7 @@
     "@wdio/sync": "^6.4.5",
     "@wdio/appium-service": "6.4.7",
     "@wdio/devtools-service": "6.5.2",
-    "@wdio/webdriver-mock-service": "6.4.7",
+    "@wdio/webdriver-mock-service": "6.7.0",
     "@wdio/logger": "6.4.7",
     "wdio-wiremock-service": "6.0.3",
     "node-fetch": "2.6.1",
