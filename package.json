@@ -30,7 +30,7 @@
     "node-fetch": "2.6.1",
     "allure-commandline": "^2.13.0",
     "chai": "^4.2.0",
-    "mocha": "^8.2.0",
+    "mocha": "^8.2.1",
     "ts-node": "^9.0.0",
     "tsconfig-paths": "^3.9.0",
     "tslint": "^6.1.3",
