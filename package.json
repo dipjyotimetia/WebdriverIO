@@ -25,7 +25,7 @@
     "@wdio/appium-service": "6.8.0",
     "@wdio/devtools-service": "6.8.0",
     "@wdio/webdriver-mock-service": "6.8.0",
-    "@wdio/logger": "6.6.0",
+    "@wdio/logger": "6.8.0",
     "wdio-wiremock-service": "6.0.3",
     "node-fetch": "2.6.1",
     "allure-commandline": "^2.13.0",
