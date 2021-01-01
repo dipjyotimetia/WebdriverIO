@@ -26,7 +26,7 @@
     "@wdio/devtools-service": "6.10.5",
     "@wdio/webdriver-mock-service": "6.10.0",
     "@wdio/logger": "6.10.4",
-    "wdio-wiremock-service": "6.0.3",
+    "wdio-wiremock-service": "6.0.4",
     "node-fetch": "2.6.1",
     "allure-commandline": "^2.13.8",
     "chai": "^4.2.0",
