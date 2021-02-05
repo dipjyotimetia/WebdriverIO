@@ -29,7 +29,7 @@
     "wdio-wiremock-service": "6.0.6",
     "node-fetch": "2.6.1",
     "allure-commandline": "^2.13.8",
-    "chai": "^4.2.0",
+    "chai": "^4.3.0",
     "mocha": "^8.2.1",
     "ts-node": "^9.1.1",
     "tsconfig-paths": "^3.9.0",
