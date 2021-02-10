@@ -22,7 +22,7 @@
     "@wdio/selenium-standalone-service": "^6.12.1",
     "@wdio/spec-reporter": "^7.0.0",
     "@wdio/sync": "^6.11.0",
-    "@wdio/appium-service": "6.12.1",
+    "@wdio/appium-service": "7.0.0",
     "@wdio/devtools-service": "6.12.1",
     "@wdio/webdriver-mock-service": "7.0.1",
     "@wdio/logger": "6.10.10",
