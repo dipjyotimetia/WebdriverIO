@@ -1,4 +1,4 @@
-# WebdriverIO_v6_TypeScript
+# WebdriverIO_v7_TypeScript
 
 This is a boilerplate project that uses WebdriverIO v6 and TypeScript v3. This project is useful not only as an example of WebdriverIO v6 and TypeScript playing nicely together, but it includes examples of the PageObject pattern and some practical examples for using WebdriverIO to build an automated test suite with Mocha & Chai.
 
