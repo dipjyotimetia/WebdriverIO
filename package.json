@@ -23,7 +23,7 @@
     "@wdio/spec-reporter": "^7.0.3",
     "@wdio/sync": "^7.0.3",
     "@wdio/appium-service": "7.0.3",
-    "@wdio/devtools-service": "7.0.3",
+    "@wdio/devtools-service": "7.0.4",
     "@wdio/webdriver-mock-service": "7.0.3",
     "@wdio/logger": "7.0.0",
     "wdio-wiremock-service": "6.0.6",
