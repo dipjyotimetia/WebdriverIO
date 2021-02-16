@@ -21,7 +21,7 @@
     "@wdio/mocha-framework": "^7.0.4",
     "@wdio/selenium-standalone-service": "^7.0.3",
     "@wdio/spec-reporter": "^7.0.4",
-    "@wdio/sync": "^7.0.3",
+    "@wdio/sync": "^7.0.4",
     "@wdio/appium-service": "7.0.4",
     "@wdio/devtools-service": "7.0.4",
     "@wdio/webdriver-mock-service": "7.0.4",
