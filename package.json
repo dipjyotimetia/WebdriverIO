@@ -26,7 +26,7 @@
     "@wdio/selenium-standalone-service": "^7.2.1",
     "@wdio/spec-reporter": "^7.2.1",
     "@wdio/sync": "^7.2.1",
-    "@wdio/webdriver-mock-service": "7.2.1",
+    "@wdio/webdriver-mock-service": "7.2.3",
     "allure-commandline": "^2.13.8",
     "chai": "^4.3.4",
     "devtools": "7.2.1",
