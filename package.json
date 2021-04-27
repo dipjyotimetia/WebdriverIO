@@ -17,7 +17,7 @@
     "@types/node": "^14.14.41",
     "@wdio/allure-reporter": "^7.4.2",
     "@wdio/appium-service": "^7.4.2",
-    "@wdio/cli": "^7.4.6",
+    "@wdio/cli": "^7.5.2",
     "@wdio/config": "^7.4.2",
     "@wdio/devtools-service": "^7.4.6",
     "@wdio/local-runner": "^7.4.6",
