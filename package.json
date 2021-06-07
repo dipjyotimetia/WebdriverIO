@@ -21,7 +21,7 @@
     "@wdio/config": "^7.7.3",
     "@wdio/devtools-service": "^7.7.3",
     "@wdio/local-runner": "^7.7.3",
-    "@wdio/logger": "^7.5.3",
+    "@wdio/logger": "^7.7.0",
     "@wdio/mocha-framework": "^7.7.3",
     "@wdio/selenium-standalone-service": "^7.7.3",
     "@wdio/spec-reporter": "^7.7.3",
