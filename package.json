@@ -15,7 +15,7 @@
     "@types/jquery": "^3.5.5",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.6.0",
-    "@wdio/allure-reporter": "^7.7.3",
+    "@wdio/allure-reporter": "^7.9.1",
     "@wdio/appium-service": "^7.7.3",
     "@wdio/cli": "^7.9.1",
     "@wdio/config": "^7.7.3",
