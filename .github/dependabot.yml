@@ -8,7 +8,7 @@ updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "daily"
+      interval: "monthly"
       time: "12:00"
       timezone: Australia/Melbourne
     open-pull-requests-limit: 10  
