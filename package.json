@@ -29,7 +29,7 @@
     "@wdio/webdriver-mock-service": "^7.11.1",
     "allure-commandline": "^2.13.8",
     "chai": "^4.3.4",
-    "devtools": "^7.9.1",
+    "devtools": "^7.11.0",
     "mocha": "^9.1.1",
     "node-fetch": "^3.0.0",
     "ts-node": "^10.2.0",
