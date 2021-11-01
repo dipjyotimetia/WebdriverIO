@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/chai": "^4.2.22",
-    "@types/jquery": "^3.5.6",
+    "@types/jquery": "^3.5.8",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.10.2",
     "@wdio/allure-reporter": "^7.16.3",
