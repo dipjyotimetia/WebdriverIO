@@ -25,7 +25,7 @@
     "@wdio/mocha-framework": "^7.20.0",
     "@wdio/selenium-standalone-service": "^7.20.3",
     "@wdio/spec-reporter": "^7.20.0",
-    "@wdio/sync": "^7.20.2",
+    "@wdio/sync": "^7.20.5",
     "@wdio/webdriver-mock-service": "^7.19.7",
     "allure-commandline": "^2.17.2",
     "chai": "^4.3.6",
