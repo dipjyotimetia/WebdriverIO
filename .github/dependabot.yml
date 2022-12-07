@@ -8,7 +8,10 @@ updates:
   - package-ecosystem: "npm" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: "monthly"
+      interval: "daily"
       time: "12:00"
       timezone: Australia/Melbourne
+    labels:
+      - "automerge"
+      - "dependencies"  
     open-pull-requests-limit: 10  
