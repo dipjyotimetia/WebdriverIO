@@ -20,7 +20,7 @@
     "@wdio/cli": "^7.27.0",
     "@wdio/config": "^7.26.0",
     "@wdio/devtools-service": "^8.0.8",
-    "@wdio/local-runner": "^8.0.8",
+    "@wdio/local-runner": "^8.0.9",
     "@wdio/logger": "^7.19.0",
     "@wdio/mocha-framework": "^8.0.8",
     "@wdio/selenium-standalone-service": "^8.0.8",
