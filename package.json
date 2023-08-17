@@ -37,6 +37,6 @@
     "tslint": "^6.1.3",
     "typescript": "^5.1.6",
     "wdio-wiremock-service": "^6.0.7",
-    "webdriverio": "^8.13.13"
+    "webdriverio": "^8.15.4"
   }
 }
