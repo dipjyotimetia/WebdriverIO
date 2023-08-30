@@ -16,7 +16,7 @@
     "@types/mocha": "^10.0.1",
     "@types/node": "^20.4.4",
     "@wdio/allure-reporter": "^8.14.0",
-    "@wdio/appium-service": "^8.13.4",
+    "@wdio/appium-service": "^8.15.10",
     "@wdio/cli": "^8.14.4",
     "@wdio/config": "^8.12.1",
     "@wdio/devtools-service": "^8.13.13",
