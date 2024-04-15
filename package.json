@@ -24,7 +24,7 @@
     "@wdio/logger": "^8.28.0",
     "@wdio/mocha-framework": "^8.35.0",
     "@wdio/selenium-standalone-service": "^8.15.0",
-    "@wdio/spec-reporter": "^8.32.4",
+    "@wdio/spec-reporter": "^8.36.0",
     "@wdio/sync": "^7.27.0",
     "@wdio/webdriver-mock-service": "^8.35.1",
     "allure-commandline": "^2.28.0",
