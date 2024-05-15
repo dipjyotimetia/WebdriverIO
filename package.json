@@ -14,7 +14,7 @@
     "@types/chai": "^4.3.14",
     "@types/jquery": "^3.5.29",
     "@types/mocha": "^10.0.6",
-    "@types/node": "^20.12.7",
+    "@types/node": "^20.12.12",
     "@wdio/allure-reporter": "^8.36.1",
     "@wdio/appium-service": "^8.35.1",
     "@wdio/cli": "^8.36.1",
