@@ -13,7 +13,7 @@
   "devDependencies": {
     "@types/chai": "^5.0.1",
     "@types/jquery": "^3.5.32",
-    "@types/mocha": "^10.0.9",
+    "@types/mocha": "^10.0.10",
     "@types/node": "^22.10.2",
     "@wdio/allure-reporter": "^9.5.0",
     "@wdio/appium-service": "^9.5.1",
