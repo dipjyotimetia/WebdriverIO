@@ -27,7 +27,7 @@
     "@wdio/spec-reporter": "^9.5.0",
     "@wdio/sync": "^7.27.0",
     "@wdio/webdriver-mock-service": "^9.5.7",
-    "allure-commandline": "^2.31.0",
+    "allure-commandline": "^2.32.2",
     "chai": "^5.1.2",
     "devtools": "^8.36.1",
     "mocha": "^11.0.1",
